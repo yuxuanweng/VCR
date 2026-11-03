@@ -1,1 +1,1 @@
-Checkpoints for Tokenizer and Backbone can be found in **Release**.
+Checkpoints for the Tokenizer and Backbone can be found in [**Releases**](../../../releases).
